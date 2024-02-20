@@ -1,4 +1,9 @@
 # MultipleOptimisedRedundantCost
+
+Update: If you are reading this, you know that I am a fool patool
+
+
+
 Optimisation of multiple configuration space cost functions with Newton descent.
 
 This is optimised with respect to a set list of cost functions, and a set robot.
